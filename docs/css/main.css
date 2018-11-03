@@ -9,10 +9,14 @@ body {
 	color: #000000;
 	background-color: #424242;
 
-	background: #F8D353;
+	/*  background: #F8D353;
 	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
-	background: linear-gradient(top left, #F8D353, #FF5C5A);
+	background: linear-gradient(top left, #F8D353, #FF5C5A); */
+    background: #75C05D;
+    background: -webkit-linear-gradient(top left, #75C05D, #3CC5B6);
+    background: -moz-linear-gradient(top left, #75C05D, #3CC5B6);
+    background: linear-gradient(top left, #75C05D, #3CC5B6);
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
